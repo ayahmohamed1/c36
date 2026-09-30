@@ -32,7 +32,7 @@ const giftData: Record<string, GiftData> = {
     musicUrl: "",                                        // رابط الموسيقى هنا
     message: `Happy birthday ya 3amoryy
 w3obal million sana ya habibi w y5lek lia w tfdl
-gambi w m3aya daymn ♥️♥️♥️.`,
+gambi w m3aya daymn  w a4ofk mabsot wt7kk elli ttmnah ya roh alby w a4ofk a7sn w a4tr bashmohnds f eldonia♥️♥️♥️.`,
   },
 
 };
